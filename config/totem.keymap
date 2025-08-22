@@ -95,9 +95,9 @@
         Fun {
             label = "Fun";
             bindings = <
-        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &kp F1
-        &trans  &trans  &trans  &trans   &to 5  &trans  &trans  &trans  &trans  &kp F10
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp F20  &trans
+        &trans  &trans  &trans  &trans  &trans  &trans  &F7  &F8  &F9  &kp F10
+        &trans  &trans  &trans  &trans   &to 5  &trans  &F4  &F5  &F6  &kp BSLH
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &F1  &F2  &F3  &kp PIPE  &trans
                         &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
